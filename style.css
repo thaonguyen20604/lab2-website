@@ -7,7 +7,7 @@ body {
 
 /* Header */
 header {
-  background: gray;
+  background: yello;
   color: white;
   text-align: center;
   padding: 20px 0;
@@ -45,4 +45,5 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
